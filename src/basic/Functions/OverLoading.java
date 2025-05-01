@@ -3,6 +3,7 @@ package basic.Functions;
 public class OverLoading {
     public static void main(String[] args) {
         fun(15);
+        fun("kabali");
     }
     static  void fun(int x){
         System.out.println(x);
@@ -11,5 +12,6 @@ public class OverLoading {
     static  void fun(String x){
         System.out.println(x);
     }
+
 
 }
