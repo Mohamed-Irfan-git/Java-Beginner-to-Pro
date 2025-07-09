@@ -3,7 +3,7 @@ package DSA.Recursion;
 public class fibo {
     public static void main(String[] args) {
 //System.out.println(fib(50));
-        System.out.println(fibo1(3));
+        System.out.println(fibo1(5));
     }
     static int fib(int n){
         if(n<2){
