@@ -48,10 +48,10 @@ This repository is a complete guide for learning **Java** from basics to advance
 
 4.Run and modify the code to practice
 
-##🙌 Contributing
+## 🙌 Contributing
 Feel free to fork this repository and contribute with:
 
-✍️ More example problems
+## ✍️ More example problems
 
 📘 Better explanations
 
