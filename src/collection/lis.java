@@ -20,11 +20,11 @@ public class lis {
         }
 
         Stream<String> stream = list.stream();
-        stream.filter(name ->name.contains("Kunal"))
+        stream.filter(name ->name.contains("Irfan"))
                 .forEach(System.out::println);
 
         Stream<String> stream1 = list.stream();
-        stream1.map(name ->name.replaceFirst("Kunal","Kunal Kushwaha"))
+        stream1.map(name ->name.replaceFirst("Irfan","Mohammed Irfan"))
                 .forEach(System.out::println);
 
 
