@@ -1,4 +1,4 @@
-package design_petterns.classes;
+package design_petterns.oop.classes;
 
 public class Main {
     public static void main(String[] args) {

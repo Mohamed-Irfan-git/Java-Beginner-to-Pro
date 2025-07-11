@@ -1,4 +1,4 @@
-package design_petterns.interfaces;
+package design_petterns.oop.interfaces;
 
 public class TextCalculator2020 implements TextCalculator {
     @Override
