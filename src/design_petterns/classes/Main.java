@@ -6,5 +6,6 @@ public class Main {
         System.out.println(user.getName());
         user.setName("Vijay");
         System.out.println(user.getName());
+        user.sayHello();
     }
 }
