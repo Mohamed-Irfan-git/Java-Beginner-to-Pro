@@ -52,7 +52,7 @@ This repository is a complete guide for learning **Java** from basics to advance
 ## 🙌 Contributing
 Feel free to fork this repository and contribute with:
 
-## ✍️ More example problems
+✍️ More example problems
 
 📘 Better explanations
 
