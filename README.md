@@ -1,6 +1,6 @@
 # Java Beginner to Pro 🚀
 
-This repository is a complete guide for learning **Java** from basics to advanced levels. It includes everything from core syntax and object-oriented concepts to **Collections**, **Generics**, **DSA**, and **LeetCode** problem-solving.
+This repository is a complete guide for learning **Java** from basics to advanced levels. It includes everything from core syntax and object-oriented concepts to **Collections**, **Generics**, **DSA**, **Design Pattern**and **LeetCode** problem-solving.
 
 > 📚 Ideal for students, self-learners, and anyone who wants to master Java programming step by step.
 
