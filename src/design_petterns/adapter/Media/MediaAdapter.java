@@ -1,4 +1,4 @@
-package design_petterns.adapter;
+package design_petterns.adapter.Media;
 
 public class MediaAdapter implements MediaPlayer {
     private final Mp4Player mp4Player;

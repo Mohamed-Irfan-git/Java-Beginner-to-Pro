@@ -1,4 +1,4 @@
-package design_petterns.adapter;
+package design_petterns.adapter.Media;
 
 public class Mp4Player {
     public void playerMp4(String filename){

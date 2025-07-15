@@ -1,4 +1,4 @@
-package design_petterns.adapter;
+package design_petterns.adapter.Media;
 
 public class Main {
     public static void main(String[] args) {
